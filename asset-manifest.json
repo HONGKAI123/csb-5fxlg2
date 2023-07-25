@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hongkai123.github.io/csb-5fxlg2/static/css/main.ece0427e.chunk.css",
+    "main.js": "https://hongkai123.github.io/csb-5fxlg2/static/js/main.7e32bca4.chunk.js",
+    "main.js.map": "https://hongkai123.github.io/csb-5fxlg2/static/js/main.7e32bca4.chunk.js.map",
+    "runtime-main.js": "https://hongkai123.github.io/csb-5fxlg2/static/js/runtime-main.85b676b9.js",
+    "runtime-main.js.map": "https://hongkai123.github.io/csb-5fxlg2/static/js/runtime-main.85b676b9.js.map",
+    "static/js/2.0ea723e0.chunk.js": "https://hongkai123.github.io/csb-5fxlg2/static/js/2.0ea723e0.chunk.js",
+    "static/js/2.0ea723e0.chunk.js.map": "https://hongkai123.github.io/csb-5fxlg2/static/js/2.0ea723e0.chunk.js.map",
+    "index.html": "https://hongkai123.github.io/csb-5fxlg2/index.html",
+    "static/css/main.ece0427e.chunk.css.map": "https://hongkai123.github.io/csb-5fxlg2/static/css/main.ece0427e.chunk.css.map",
+    "static/js/2.0ea723e0.chunk.js.LICENSE.txt": "https://hongkai123.github.io/csb-5fxlg2/static/js/2.0ea723e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85b676b9.js",
+    "static/js/2.0ea723e0.chunk.js",
+    "static/css/main.ece0427e.chunk.css",
+    "static/js/main.7e32bca4.chunk.js"
+  ]
+}
